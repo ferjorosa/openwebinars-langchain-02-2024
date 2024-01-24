@@ -1,0 +1,1 @@
+El archivo `1_introduccion.ipynb` contiene una versión condensada de la información que se comenta en las lecciones. Fue desarrollado previamente a ellas.
